@@ -1,0 +1,1 @@
+Stable diffusion is open source and anyone who has 5GB of GPU VRAM can download it 
